@@ -1,0 +1,4 @@
+enum ThemeType {
+  CAFFEINE,
+  MELATONIN,
+}
